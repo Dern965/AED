@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+//Estructuras para la pila
 struct Nodo{
     int valor;
     struct Nodo* ant;
@@ -12,6 +13,7 @@ typedef struct{
     int cursor;
 }Pila;
 
+//Prefunciones para la pila
 Pila* crearPila(int*);
 void consultarCima(Pila, int*);
 void apilar(Pila*, int*, struct Nodo);
