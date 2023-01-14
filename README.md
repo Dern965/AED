@@ -6,6 +6,7 @@
 
 #### Algoritmos
 #### Pila
+* [Pila](./Pila/)
 #### Cola
 #### Lista
 #### Arboles
