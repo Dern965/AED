@@ -15,8 +15,8 @@
 #### Cola
 #### Bicola
 #### Listas
-* []
-* []
-* []
-* []
+* [Lista Simplemente Enlazada](README.md)
+* [Lista Doblemente Enlazada](README.md)
+* [Lista Circular Simplemente Enlazada](README.md)
+* [Lista Circular Doblemente Enlazda](README.md)
 #### Arboles
