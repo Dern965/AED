@@ -13,5 +13,10 @@
 #### Pila
 * [Pila](./Pila/)
 #### Cola
-#### Lista
+#### Bicola
+#### Listas
+* []
+* []
+* []
+* []
 #### Arboles
