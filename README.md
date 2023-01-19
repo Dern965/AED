@@ -16,7 +16,7 @@
 * [Cola](./Cola/)
 #### Bicola
 #### Listas
-* [Lista Simplemente Enlazada](README.md)
+* [Lista Simplemente Enlazada](./Lista%20Simplemente%20Enlazada/)
 * [Lista Doblemente Enlazada](README.md)
 * [Lista Circular Simplemente Enlazada](README.md)
 * [Lista Circular Doblemente Enlazda](README.md)
