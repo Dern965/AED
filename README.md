@@ -17,7 +17,7 @@
 #### Bicola
 #### Listas
 * [Lista Simplemente Enlazada](./Lista%20Simplemente%20Enlazada/)
-* [Lista Doblemente Enlazada](README.md)
+* [Lista Doblemente Enlazada](./Lista%20Doblemente%20Enlazada/)
 * [Lista Circular Simplemente Enlazada](README.md)
 * [Lista Circular Doblemente Enlazda](README.md)
 #### Arboles
