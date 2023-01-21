@@ -173,10 +173,10 @@ void recorrerLista(Lista *l, int *error){
     else{
         Nodo* aux = *l;
         while(aux->sig != NULL){
-            printf("%d , %d  ||  ", aux->valor, aux->pos);
+            printf("Valor: %d , Pos: %d\n", aux->valor, aux->pos);
             aux = aux->sig;
         }
-        printf("%d , %d  ||  ", aux->valor, aux->pos);
+        printf("Valor: %d , Pos: %d\n ", aux->valor, aux->pos);
         printf("\n---------------------\n");
         *error = 0;
     }
