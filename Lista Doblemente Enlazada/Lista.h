@@ -12,6 +12,7 @@ typedef struct Nodo{
 
 typedef struct Nodo* Lista;
 
+//Prefunciones
 Nodo* crearNodo(Dato valor, int* error);
 Lista* crearLista(int* error);
 
