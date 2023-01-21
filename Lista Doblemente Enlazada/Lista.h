@@ -26,5 +26,6 @@ Dato extractNPos(Lista *l, int pos, int* error);
 
 void recorrerLista(Lista *l, int *error);
 void borrarLista(Lista *l, int *error);
+int contarNodos(Lista l);
 
 void destruirLista(Lista *l, int *error);
