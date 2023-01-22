@@ -15,6 +15,7 @@
 #### Cola
 * [Cola](./Cola/)
 #### Bicola
+* [Bicola](./Bicola/)
 #### Listas
 * [Lista Simplemente Enlazada](./Lista%20Simplemente%20Enlazada/)
 * [Lista Doblemente Enlazada](./Lista%20Doblemente%20Enlazada/)
