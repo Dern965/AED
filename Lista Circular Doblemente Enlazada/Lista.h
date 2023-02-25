@@ -5,7 +5,7 @@
 typedef int Dato;
 
 typedef struct Nodo{
-    Dato valr;
+    Dato valor;
     int pos;
     struct Nodo *ant, *sig;
 } Nodo;
